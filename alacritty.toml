@@ -1,21 +1,13 @@
-[bold]
-family = "Cousine NFM"
-style = "Bold"
-
 [colors.primary]
 background = "#000000"
 foreground = "#c5c8c6"
 
 [font]
-style = "Regular"
-
-[font.normal]
-family = "Cousine NFM"
-
-[italic]
-family = "monospace"
-size = 7.0
-style = "Italic"
+normal = { family = "ComicShannsMono Nerd Font", style = "regular" }
+bold = { family = "ComicShannsMono Nerd Font", style = "bold" }
+italic = { family = "Cousine Nerd Font", style = "italic" }
+bold_italic = { family = "Cousine Nerd Font", style = "bolditalic" }
+offset = { x = 2, y = 0 }
 
 [scrolling]
 history = 100000
