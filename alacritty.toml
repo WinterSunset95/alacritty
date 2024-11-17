@@ -8,6 +8,7 @@ bold = { family = "ComicShannsMono Nerd Font", style = "bold" }
 italic = { family = "Cousine Nerd Font", style = "italic" }
 bold_italic = { family = "Cousine Nerd Font", style = "bolditalic" }
 offset = { x = 2, y = 0 }
+size = 9
 
 [scrolling]
 history = 100000
